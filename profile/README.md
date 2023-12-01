@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[wiki](https://github.com/CampusMarker/.github/wiki)
+
 <!--
 
 **Here are some ideas to get you started:**
